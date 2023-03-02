@@ -1,0 +1,1 @@
+export const Saluda= ()=> console.log("Hola buenos dias")
